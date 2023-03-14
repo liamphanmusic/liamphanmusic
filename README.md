@@ -34,7 +34,8 @@ My research interests include:
 
 ## Socials
 
-<a href="[https://ch.linkedin.com/in/liamphanmusic](https://ch.linkedin.com/in/liamphanmusic)">
-  <img align="left" alt="Liam's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://ch.linkedin.com/in/liamphanmusic">
+  <img align="left" alt="Lionel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 
