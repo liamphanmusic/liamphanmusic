@@ -6,7 +6,7 @@
 
 I am currently student in the Master of Business Analytics at The University of Geneva (GSEM Faculty).
 
-## 🔭 Research interests
+## Research interests
 My research interests include:
   - Time series analysis
   - Applied Statistics
@@ -14,10 +14,13 @@ My research interests include:
   - Machine Learning
   - High-dimensional Statistics & Variable selection
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 ![](https://img.shields.io/badge/Editor-RStudio-informational?style=flat&logo=RStudio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+
+## My Music
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/artist/4HIb6xhqfXDro0hkpwILwR?si=UWZKeM9PSEqe-9rzpOU5rg)
 
 ## &#x1f4c8; GitHub Stats
 
