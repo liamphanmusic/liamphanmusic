@@ -30,4 +30,6 @@ My research interests include:
   <img align="left" alt="Liam's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/4HIb6xhqfXDro0hkpwILwR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
