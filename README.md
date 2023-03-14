@@ -20,9 +20,9 @@ My research interests include:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
 ## My Music
-[![Spotify](https://www.google.com/url?sa=i&url=https%3A%2F%2Fopen.spotify.com%2Fartist%2F4HIb6xhqfXDro0hkpwILwR&psig=AOvVaw0Xh1VvHPF95hey_v5UBnI4&ust=1678876451613000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNi5waac2_0CFQAAAAAdAAAAABAD)](https://open.spotify.com/artist/4HIb6xhqfXDro0hkpwILwR?si=UWZKeM9PSEqe-9rzpOU5rg)
+![https://www.google.com/url?sa=i&url=https%3A%2F%2Fopen.spotify.com%2Fartist%2F4HIb6xhqfXDro0hkpwILwR&psig=AOvVaw0Xh1VvHPF95hey_v5UBnI4&ust=1678876451613000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNi5waac2_0CFQAAAAAdAAAAABAD)](https://open.spotify.com/artist/4HIb6xhqfXDro0hkpwILwR?si=UWZKeM9PSEqe-9rzpOU5rg)
 
-## &#x1f4c8; GitHub Stats
+## GitHub Stats
 
 [![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=liamphanmusic&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
