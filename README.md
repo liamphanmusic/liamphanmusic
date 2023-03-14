@@ -20,7 +20,7 @@ My research interests include:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
 ## My Music
-[![Website]](https://liamphan.com/))
+[![Website](https://liamphan.com/)
 
 ## GitHub Stats
 
