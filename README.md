@@ -34,6 +34,10 @@ My research interests include:
   <img align="left" alt="Liam's Github" width="22px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/discord.svg" />
 </a>
 
+<a href="https://open.spotify.com/artist/4HIb6xhqfXDro0hkpwILwR?si=JkNxh7NXQmWXZzXrTE0D1A&nd=1">
+  <img align="left" alt="Liam's Youtube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" />
+</a>
+
 <a href="https://www.youtube.com/channel/UCrB02GT9BOLUtBdBBgZ5GEA?view_as=subscriber">
   <img align="left" alt="Liam's Youtube" width="22px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/youtube.svg" />
 </a>
