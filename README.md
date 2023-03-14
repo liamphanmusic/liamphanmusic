@@ -6,19 +6,13 @@
 
 I am currently student in the Master of Business Analytics at The University of Geneva (GSEM Faculty).
 
-
 ## 🔭 Research interests
 My research interests include:
   - Time series analysis
-  - Signal Processing
-  - Boostrap methods
-  - Generalized Mixed Linear Models
   - Applied Statistics
   - Computational Statistics
   - Machine Learning
   - High-dimensional Statistics & Variable selection
-
-
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-RStudio-informational?style=flat&logo=RStudio&logoColor=white&color=2bbc8a)
@@ -31,11 +25,9 @@ My research interests include:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liamphanmusic)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ## Socials
-
 <a href="https://ch.linkedin.com/in/liamphanmusic">
-  <img align="left" alt="Lionel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Liam's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 
