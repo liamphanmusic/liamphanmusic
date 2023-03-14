@@ -27,7 +27,7 @@ My research interests include:
 
 ## &#x1f4c8; GitHub Stats
 
-[![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=liamphanmusic)](https://github.com/anuraghazra/github-readme-stats)
+[![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=liamphanmusica&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
