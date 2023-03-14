@@ -30,6 +30,17 @@ My research interests include:
   <img align="left" alt="Liam's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/4HIb6xhqfXDro0hkpwILwR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<a href="https://github.com/liamphanmusic">
+  <img align="left" alt="Liam's Github" width="22px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/discord.svg" />
+</a>
+
+<a href="https://www.youtube.com/channel/UCrB02GT9BOLUtBdBBgZ5GEA?view_as=subscriber">
+  <img align="left" alt="Liam's Youtube" width="22px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/youtube.svg" />
+</a>
+
+<a href="https://twitter.com/liamphanmusic">
+  <img align="left" alt="Liam's Youtube" width="22px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/twitter.svg" />
+</a>
+
 
 
