@@ -6,7 +6,7 @@
 
 I graduated from the Master of Business Analytics at The University of Geneva (GSEM Faculty).
 
-Also having a Diploma in Bachelor of Science in Economics and Management (GSEM Faculty)
+2022 - Diploma in Bachelor of Science in Economics and Management (GSEM Faculty)
 
 ## Research interests
 My research interests include:
