@@ -30,25 +30,7 @@ My research interests include:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liamphanmusic)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Socials
-<a href="https://ch.linkedin.com/in/liamphanmusic">
-
-</a>
-
-<a href="https://github.com/liamphanmusic">
- 
-</a>
-
-<a href="https://open.spotify.com/artist/4HIb6xhqfXDro0hkpwILwR?si=JkNxh7NXQmWXZzXrTE0D1A&nd=1">
-  
-</a>
-
-<a href="https://www.youtube.com/channel/UCrB02GT9BOLUtBdBBgZ5GEA?view_as=subscriber">
-
-</a>
-
-<a href="https://twitter.com/liamphanmusic">
-  <
-</a>
+<a href="https://ch.linkedin.com/in/liamphanba">
 
 
 
