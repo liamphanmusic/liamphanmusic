@@ -5,7 +5,8 @@
 ### Hi ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I graduated from the Master of Business Analytics at The University of Geneva (GSEM Faculty).
-Diploma in Bachelor of Science in Economics and Management (GSEM Faculty)
+
+Also having a Diploma in Bachelor of Science in Economics and Management (GSEM Faculty)
 
 ## Research interests
 My research interests include:
