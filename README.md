@@ -20,6 +20,12 @@ My research interests include:
 ![](https://img.shields.io/badge/Editor-RStudio-informational?style=flat&logo=RStudio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-DAX-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Microsoft-PowerBi-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Microsoft-PowerAutomate-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/3D-Blender-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+
 
 ## My Music
 [Music Streaming Platforms](https://liamphan.com/platforms/)
